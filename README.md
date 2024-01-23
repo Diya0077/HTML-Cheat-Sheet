@@ -68,3 +68,6 @@
    - **`<footer>`**: Represents a footer section.
 
 These are essential tags to create a basic and responsive HTML page. Customize and expand based on your specific project needs.
+
+### Index_04.html:
+![image](https://github.com/Nil369/HTML-Cheat-Sheet/assets/148447931/ff45c0d8-62d1-4380-a8ff-f718b109960c)
